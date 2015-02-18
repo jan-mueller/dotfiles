@@ -1,0 +1,3 @@
+/Sublime/User/*
+!/Sublime/User/Preferences.sublime-settings
+!/Sublime/User/trailing_spaces.sublime-settings
