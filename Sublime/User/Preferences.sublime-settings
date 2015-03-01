@@ -1,12 +1,13 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"font_size": 10,
+	"font_face": "Anonymous Pro",
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
-	"font_size": 10,
 	"tab_stop": 2,
 	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true
