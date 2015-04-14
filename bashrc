@@ -114,3 +114,8 @@ export NVM_DIR="/home/jan/.nvm"
 
 #android sdk
 PATH=$PATH:~/.android-sdk/platform-tools:~/.android-sdk/tools
+
+#go related bash configuration
+export GOPATH=$HOME/Development/Go
+export GOBIN=$GOPATH/bin
+export PATH="$PATH:$GOBIN"
